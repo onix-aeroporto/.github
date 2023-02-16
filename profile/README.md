@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="../images/onix.png" alt="onix" title="Imagem de logo do onix" width="500" />
+  <img src="./onix.png" alt="onix" title="Imagem de logo do onix" width="500" />
 </h1>
 
 <p align="center">Onix é uma plataforma web para gerenciamento de aeroportos brasileiros. Contendo recursos para o gerenciamento de multiplos aeroportos com suas próprias aeronaves.</p>
